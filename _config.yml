@@ -1,0 +1,71 @@
+url: ""
+title: "Final Cooking Fantasy"
+
+plugins:
+  - jekyll-admin
+
+collections:
+  mains:
+    output: true
+
+  snacks:
+    output: true
+
+  sauces:
+    output: true
+
+  desserts:
+    output: true
+
+defaults:
+  - scope:
+      path: ''
+      type: mains
+    values:
+      title: 'recipe name'
+      layout: recipe
+      category: 'mains/desserts/sauces/snacks'
+      picture:
+      ingredients:
+        - ''
+      steps:
+        - ''
+
+  - scope:
+      path: ''
+      type: snacks
+    values:
+      title: 'recipe name'
+      layout: recipe
+      category: 'mains/desserts/sauces/snacks'
+      picture:
+      ingredients:
+        - ''
+      steps:
+        - ''
+
+  - scope:
+      path: ''
+      type: sauces
+    values:
+      title: 'recipe name'
+      layout: recipe
+      category: 'mains/desserts/sauces/snacks'
+      picture:
+      ingredients:
+        - ''
+      steps:
+        - ''
+
+  - scope:
+      path: ''
+      type: desserts
+    values:
+      title: 'recipe name'
+      layout: recipe
+      category: 'mains/desserts/sauces/snacks'
+      picture:
+      ingredients:
+        - ''
+      steps:
+        - ''

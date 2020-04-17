@@ -1,0 +1,26 @@
+
+<script>
+  function recipeHoverOn(x) {
+    x.style.opacity = "1";
+    x.style.transform = "scale(1.05)";
+  }
+
+  function recipeHoverOff(x) {
+    x.style.opacity = "0.6";
+    x.style.transform = "scale(1)";
+  }
+
+function openNav() {
+  document.getElementById("sidebar-id").style.left = "0";
+  document.getElementById("main-content").style.marginLeft = "30%";
+  document.getElementById("menu-open").style.display = "none";
+  document.getElementById("menu-close").style.display = "inline-block";
+}
+
+function closeNav() {
+  document.getElementById("sidebar-id").style.left = "-30%";
+  document.getElementById("main-content").style.marginLeft= "0";
+  document.getElementById("menu-close").style.display = "none";
+  document.getElementById("menu-open").style.display = "inline-block"
+}
+</script>

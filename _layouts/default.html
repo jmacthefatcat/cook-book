@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+
+  <section id="sidebar-id" class="sidebar vh-center flex-col">
+    {% include side.html %}
+  </section>
+
+  <div id="main-content">
+    <div class="w-100 p-b-xl">
+      <span id="menu-open" class="menu-toggle p-h-m p-v-s text-uppercase" onclick="openNav()">Open</span>
+      <span id="menu-close" class="menu-toggle p-h-m p-v-s text-uppercase" onclick="closeNav()">Close</span>
+    </div>
+    <main class="cb-grid-wrapper p-xl">
+      <div class="cb-grid">
+        {{ content }}
+      </div>
+    </main>
+  </div>
+
+  {% include footer.html %}
+
+</body>
+
+</html>

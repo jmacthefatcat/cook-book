@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+
+  <section id="sidebar-id" class="sidebar vh-center flex-col">
+    {% include side.html %}
+  </section>
+
+  <div id="main-content">
+    <div class="w-100 p-b-xl">
+      <span id="menu-open" class="menu-toggle p-h-m p-v-s text-uppercase" onclick="openNav()">Open</span>
+      <span id="menu-close" class="menu-toggle p-h-m p-v-s text-uppercase" onclick="closeNav()">Close</span>
+    </div>
+    <main class="cb-grid-wrapper p-xl">
+      <div class="cb-grid">
+        <div class="cb-4 p-b-xl">
+          <h2 class="d-block text-heavy text-xxl">{{ page.title }}</h2>
+          <a class="plain-link" href="/{{ page.category }}.html"><-- back to {{ page.category }}</a>
+        </div>
+
+        <div class="cb-4 p-h-s p-b-l">
+          <span class="d-inline-block text-uppercase text-bold">Notes</span>
+          <hr class="thick">
+          {{ content }}
+        </div>
+
+        <div class="cb-2 p-h-s">
+          <span class="d-inline-block text-uppercase text-bold">What's in it</span>
+          <hr class="thick">
+          <ul>
+            {% for ingredient in page.ingredients %}
+            <li class="">{{ ingredient }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="cb-2 p-b-l p-h-s">
+          <span class="d-inline-block text-uppercase text-bold">What to do</span>
+          <hr class="thick">
+          <ul>
+            {% for step in page.steps %}
+            <li class="">{{ step }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="cb-4" style="height: 100vh; background-image: url('../assets/imgs/{{ page.picture }}.jpg'); background-size: cover; background-position: center;">
+
+        </div>
+      </div>
+    </main>
+  </div>
+
+  {% include footer.html %}
+
+</body>
+
+</html>

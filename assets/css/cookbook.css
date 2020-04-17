@@ -1,0 +1,111 @@
+/* stylage :: jmacthefatcat */
+:root {
+  --black: #222222;
+  --grey: #454754;
+  --light-grey: #7A748C;
+  --white: #F0FFFF;
+  --ivory: #FFFFF0;
+  --green: #37CA6E;
+  --blue: #4169E1;
+  --red: #CF5C5C;
+  --orange: #FF8C28;
+  --yellow: #FFFF77;
+  --purple: #663399;
+  --pink: #FFAFCF;
+  --grid-gut: 0.5rem;
+}
+
+ul {
+  list-style: square;
+}
+
+a {
+  transition: color .4s;
+  color: currentColor;
+  cursor: pointer;
+}
+
+a:link,
+a:visited { color: currentColor; }
+a:hover   { color: var(--green); }
+a:active  {
+  transition: color .3s;
+  color: currentColor;
+}
+
+.plain-link { text-decoration: none; }
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.cb-grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -0.5rem;
+}
+
+.cb-grid > * {
+  flex: 1 0 calc(100% - 1em);
+  display: flex;
+  flex-direction: column;
+  margin: 0.5rem; }
+
+.cb-auto {
+  flex: 1 1 auto; }
+
+.cb-1 {
+  flex-basis: calc(25% - 1rem);
+ }
+
+.cb-2 {
+  flex-basis: calc(50% - 1rem);
+ }
+
+.cb-3 {
+  flex-basis: calc(75% - 1rem);
+ }
+
+.cb-4 {
+  flex-basis: calc(100% - 1rem);
+ }
+
+.sidebar {
+  position: fixed;
+  width: 30%;
+  top: 0;
+  left: -30%;
+  bottom: 0;
+  color: var(--white);
+  background-color: var(--black);
+  overflow: hidden;
+  transition: .5s;
+}
+
+#main-content {
+  transition: margin-left .5s;
+}
+
+.menu-toggle {
+  background-color: var(--black);
+  color: var(--ivory);
+  font-weight: bold;
+  cursor: pointer;
+  display: none;
+  transition: display .5s;
+}
+
+#menu-open {
+  display: inline-block;
+}
+
+#menu-close {
+  display: none;
+}
+
+#recipe {
+  transition: opacity .4s, transform .4s;
+  opacity: 0.6;
+}

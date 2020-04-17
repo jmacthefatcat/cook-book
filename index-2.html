@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Final Cooking Fantasy</title>
+    <meta name="description" content="recipes n' shit">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="assets/css/space-case.css">
+    <link rel="stylesheet" href="assets/css/cookbook.css">
+</head>
+
+
+<body>
+
+    <input class="dark-theme-checkbox" id="dark-theme" type="checkbox">
+    <div class="theme full-h d-flex">
+        <label class="dark-theme-label" for="dark-theme">Turn Dark Mode</label>
+
+        <header class="">
+        </header>
+
+        <div class="w-30 vh-center flex-nowrap flex-col" style="position: sticky; height: 100vh; color: var(--white); background-color: var(--black)">
+          <img src="assets/imgs/cauldron.svg" width="40%">
+          <h1 class="d-inline w-a text-r text-bold text-uppercase">Final Cooking Fantasy</h1>
+          <nav class="w-60 menu">
+            <div class="menu-item w-100 space-between p-xxs">
+              <span class="d-block">Mains</span><span class="d-block"><img src="assets/imgs/cauldron.svg" width="18px"></span>
+            </div>
+            <div class="menu-item w-100 space-between p-xxs">
+              <span class="d-block">Snacks</span><span class="d-block"><img src="assets/imgs/cauldron.svg" width="18px"></span>
+            </div>
+            <div class="menu-item w-100 space-between p-xxs">
+              <span class="d-block">Sauces</span><span class="d-block"><img src="assets/imgs/cauldron.svg" width="18px"></span>
+            </div>
+            <div class="menu-item w-100 space-between p-xxs">
+              <span class="d-block">Desserts</span><span class="d-block"><img src="assets/imgs/cauldron.svg" width="18px"></span>
+            </div>
+          </nav>
+        </div>
+
+
+        <main class="w-70 p-xl">
+          <div class="w-100 d-flex flex-row flex-wrap">
+            <span class="d-block m-b-l text-heavy text-xl">Banana Chocolate Chip Cookies</span>
+
+            <div class="w-100 p-s">
+             <span class="d-inline-block text-uppercase text-bold">Notes</span>
+             <hr class="thick">
+             <p>Personally I like these cookies with a slightly undercooked inside, I wait fot the edges to start turning brown while center is still fairly white.</p>
+            </div>
+
+            <div class="w-50">
+            <div class="w-100 p-s">
+             <span class="d-inline-block text-uppercase text-bold">What's in it</span>
+             <hr class="thick">
+             <ul>
+               <li class="">2 Cups of Flour</li>
+               <li class="">1 Cup of Brown Sugar</li>
+               <li class="">1 tsp of Baking Soda</li>
+               <li class="">1 Cup of Chocolate Chips</li>
+               <li class="">1 Cup of Butter (preferably melted)</li>
+               <li class="">2 Eggs</li>
+               <li class="">2 tsps of Vanilla</li>
+               <li class="">1 Banana</li>
+             </ul>
+            </div>
+            </div>
+
+            <div class="w-50">
+              <div class="w-100 p-s">
+               <span class="d-inline-block text-uppercase text-bold">What to do</span>
+               <hr class="thick">
+               <ul>
+                 <li class="">Preheat oven to 350 °</li>
+                 <li class="">Combine dry ingredients in one bowl, wet ingredients in another, then mix together</li>
+                 <li class="">Scoop onto parchment paper (or equivalent) lined baking tray</li>
+                 <li class="">Cook for roughly 15 - 20 minutes</li>
+               </ul>
+            </div>
+          </div>
+        </main>
+
+        <footer class="">
+        </footer>
+
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+              const checkbox = document.querySelector('.dark-theme-checkbox');
+
+              checkbox.checked = localStorage.getItem('darkMode') === 'true';
+
+              checkbox.addEventListener('change', function (event) {
+                localStorage.setItem('darkMode', event.currentTarget.checked);
+              });
+            });
+        </script>
+    </div>
+
+</body>
+
+</html>

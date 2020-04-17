@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% for dessert in site.desserts %}
+<a id="recipe" class="cb-2 plain-link" href="{{ dessert.url }}" onmouseover="recipeHoverOn(this)" onmouseout="recipeHoverOff(this)">
+  <div class="w-100 p-t-xxl" style="background-image: url('/assets/imgs/{{ dessert.picture }}-small.jpg'); background-size: cover; background-position: center">
+  </div>
+  <span class="w-100 p-v-xs p-h-s text-bold">{{ dessert.title }}</span>
+</a>
+{% endfor %}
