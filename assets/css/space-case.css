@@ -52,7 +52,7 @@ html {
 body {
   color: var(--black);
   font-size: inherit;
-  font-family: "Effra";
+  font-family: snas-serif;
   transition: font-size .4s;
 }
 

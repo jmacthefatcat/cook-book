@@ -15,6 +15,10 @@
   --grid-gut: 0.5rem;
 }
 
+body {
+  font-family: effra;
+}
+
 ul {
   list-style: square;
 }
