@@ -4,7 +4,7 @@ layout: default
 
 {% for snack in site.snacks %}
 <a id="recipe" class="cb-2 plain-link" href="{{ snack.url | relative_url }}" onmouseover="recipeHoverOn(this)" onmouseout="recipeHoverOff(this)">
-  <div class="w-100 p-t-xxl" style="background-image: url('/assets/imgs/{{ snack.picture | relative_url }}-small.jpg'); background-size: cover; background-position: center">
+  <div class="w-100 p-t-xxl" style="background-image: url(" {{ "assets/imgs" | realtive_url }}/{{ snack.picture }}-small.jpg'); background-size: cover; background-position: center">
   </div>
   <span class="w-100 p-v-xs p-h-s text-bold">{{ snack.title }}</span>
 </a>
