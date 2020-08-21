@@ -88,8 +88,30 @@ a:active  {
   transition: .5s;
 }
 
+.mobile-menu {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 0;
+  overflow: hidden;
+  color: var(--white);
+  background-color: var(--black);
+  transition: .5s;
+  z-index: 99;
+}
+
+.mobile-menu-button {
+  position: fixed;
+  z-index: 100;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
 #main-content {
-  transition: margin-left .5s;
+  transition: .5s;
 }
 
 .menu-toggle {
@@ -101,15 +123,36 @@ a:active  {
   transition: display .5s;
 }
 
-#menu-open {
+#menu-open, #mobile-menu-open {
   display: inline-block;
 }
 
-#menu-close {
+#menu-close, #mobile-menu-close {
   display: none;
 }
 
 #recipe {
   transition: opacity .4s, transform .4s;
   opacity: 0.6;
+}
+
+footer {
+  padding-top: var(--xxl);
+  padding-bottom: var(--l);
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar, .sidebar-button {
+    display: none;
+  }
+
+  footer {
+    padding-bottom: var(--xxl);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .mobile-menu, .mobile-menu-button {
+    display: none;
+  }
 }
