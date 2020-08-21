@@ -2,7 +2,7 @@
 title: Spaghetti Carbonara
 layout: recipe
 category: mains
-picture: null
+picture: spaghetti-carbonara
 ingredients:
 - spaghetti noodles
 - about 1/2 a pack of bacon
@@ -22,3 +22,5 @@ steps:
 - Keep stirring and add your parsley/cilantro
 - stir about more until sauce is a little creamy then serve
 ---
+
+Adding whole button mushrooms to the pan while you cook your bacon is a nice little add-on and helps replicate meatballs.
