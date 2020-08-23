@@ -30,14 +30,22 @@ a {
 }
 
 a:link,
-a:visited { color: currentColor; }
-a:hover   { color: var(--green); }
-a:active  {
+a:visited {
+  color: currentColor;
+}
+
+a:hover {
+  color: var(--green);
+}
+
+a:active {
   transition: color .3s;
   color: currentColor;
 }
 
-.plain-link { text-decoration: none; }
+.plain-link {
+  text-decoration: none;
+}
 
 .menu {
   display: flex;
@@ -51,30 +59,35 @@ a:active  {
   margin: -0.5rem;
 }
 
-.cb-grid > * {
-  flex: 1 0 calc(100% - 1em);
+.cb-grid>* {
+  flex: 1 0 calc(100% - 1rem);
   display: flex;
   flex-direction: column;
-  margin: 0.5rem; }
+  margin: 0.5rem;
+  min-width: 200px;
+  min-height: 0;
+}
 
 .cb-auto {
-  flex: 1 1 auto; }
+  flex: 1 1 auto;
+  min-width: 0;
+}
 
 .cb-1 {
   flex-basis: calc(25% - 1rem);
- }
+}
 
 .cb-2 {
   flex-basis: calc(50% - 1rem);
- }
+}
 
 .cb-3 {
   flex-basis: calc(75% - 1rem);
- }
+}
 
 .cb-4 {
   flex-basis: calc(100% - 1rem);
- }
+}
 
 .sidebar {
   position: fixed;
