@@ -29,3 +29,4 @@ steps:
   on med-high, slow cooker cook for 3 hours on high or 6 on low.
 ---
 
+Garnish with some salt and pepper, shredded cheese, and herbs like cilantro, basil, and parsley.
