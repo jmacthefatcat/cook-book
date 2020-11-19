@@ -1,4 +1,4 @@
-<footer class="cb-grid-wrapper p-h-xl">
+<footer id="footer" class="cb-grid-wrapper p-h-xl">
   <div class="cb-grid">
     <hr class="thick">
     <div class="cb-auto">
@@ -24,6 +24,7 @@
   function openNav() {
     document.getElementById("sidebar-id").style.left = "0";
     document.getElementById("main-content").style.marginLeft = "30%";
+    document.getElementById("footer").style.marginLeft = "30%";
     document.getElementById("menu-open").style.display = "none";
     document.getElementById("menu-close").style.display = "inline-block";
   }
@@ -31,6 +32,7 @@
   function closeNav() {
     document.getElementById("sidebar-id").style.left = "-30%";
     document.getElementById("main-content").style.marginLeft = "0";
+    document.getElementById("footer").style.marginLeft = "0";
     document.getElementById("menu-close").style.display = "none";
     document.getElementById("menu-open").style.display = "inline-block"
   }
