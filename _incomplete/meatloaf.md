@@ -2,7 +2,7 @@
 title: Sauceless Meatloaf
 layout: recipe
 category: mains
-picture: null
+picture: meatloaf
 ingredients:
 - 1lb of ground meat
 - 1/2 a large onion or one small onion (diced)

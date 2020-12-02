@@ -21,21 +21,21 @@
       <span id="mobile-menu-open" class="menu-toggle p-h-m p-v-s text-uppercase" onclick="openMobileNav()">Menu</span>
       <span id="mobile-menu-close" class="menu-toggle p-h-m p-v-s text-uppercase" onclick="closeMobileNav()">Close</span>
     </div>
-    
-    <main class="cb-grid-wrapper p-xl">
+
+    <main class="cb-grid-wrapper">
       <div class="cb-grid">
-        <div class="cb-4 p-b-xl">
+        <div class="cb-4 p-xl">
           <h2 class="d-block text-heavy text-xxl">{{ page.title }}</h2>
           <a class="plain-link" href="{{ page.category | relative_url }}.html"><-- back to {{ page.category }}</a>
         </div>
 
-        <div class="cb-4 p-h-s p-b-l">
+        <div class="cb-4 p-h-xl p-b-l">
           <span class="d-inline-block text-uppercase text-bold">Notes</span>
           <hr class="thick">
           {{ content }}
         </div>
 
-        <div class="cb-auto p-h-s">
+        <div class="cb-auto p-h-xl">
           <span class="d-inline-block text-uppercase text-bold">What's in it</span>
           <hr class="thick">
           <ul>
@@ -45,7 +45,7 @@
           </ul>
         </div>
 
-        <div class="cb-auto p-b-l p-h-s">
+        <div class="cb-auto p-b-l p-h-xl">
           <span class="d-inline-block text-uppercase text-bold">What to do</span>
           <hr class="thick">
           <ul>
