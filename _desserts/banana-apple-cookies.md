@@ -1,5 +1,5 @@
 ---
-title: Banana Apple Cookies
+title: Banana Apple Muffin Tops
 layout: recipe
 category: desserts
 picture: banana-apple-cookies
