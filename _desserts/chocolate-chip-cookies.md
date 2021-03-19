@@ -2,17 +2,17 @@
 title: Chocolate Chip Cookies
 layout: recipe
 category: desserts
-picture: null
+picture: chocolate-chip-cookies
 ingredients:
-- 2 1/4 cups Flour
-- 1 tsp Baking Soda
-- 1 tsp Salt
-- 1 cup Butter
-- 3/4 cup White Sugar
-- 3/4 cup Brown Sugar
-- 1 tsp Vanilla
-- 2 Eggs
-- 1 Package of chocolate chips
+- 2 1/4 cups flour
+- 1 tsp baking soda
+- 1 tsp salt
+- 1 cup butter
+- 3/4 cup white sugar
+- 3/4 cup brown sugar
+- 1 tsp vanilla
+- 2 eggs
+- desired amount of chocolate chips
 steps:
 - Preheat oven to 350. Grease cookie sheets.
 - Mix flour, soda, salt and set aside.
