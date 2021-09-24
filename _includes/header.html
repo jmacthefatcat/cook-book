@@ -1,14 +1,9 @@
-<header class="container d-flex flex-row flex-wrap v-center p-t-m p-b-xxl text-uppercase text-s">
-  <div class="vh-center">
-    <img src="/assets/imgs/cauldron.svg" width="80px">
-  </div>
-
-  <div class="flex-1 flex-col">
-    <span class="w-100 d-block text-bold">Final Cooking Fantasy</span>
-    <span class="w-100 d-block text-s text-subtle text-uppercase">
-      <a href="/index.html">recipes</a> > <a style="color: var(--green);" href="/{{ page.category }}.html">{{ page.category }}</a>
-    </span>
-
-  </div>
-  <hr class="thick w-100">
+<header class="cluster" style="justify-content: space-between">
+  <h1 class="font-size-base text-uppercase"><a href="{{ site.url }}">{{ site.title }}</a></h1>
+  <nav class="cluster text-uppercase" style="justify-content: flex-start;">
+    <div class="nav-item"><a href="{{ 'recipes/mains' | relative_url }}">Mains</a></div>
+    <div class="nav-item"><a href="{{ 'recipes/sides' | relative_url }}">Sides</a></div>
+    <div class="nav-item"><a href="{{ 'recipes/sauces' | relative_url }}">Sauces</a></div>
+    <div class="nav-item"><a href="{{ 'recipes/treats' | relative_url }}">Treats</a></div>
+  </nav>
 </header>

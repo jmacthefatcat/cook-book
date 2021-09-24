@@ -1,0 +1,18 @@
+I"Ç<div class="cb-grid">
+    
+    <a href="/sides/coleslaw">
+      <div class="frame">
+        <img src="/assets/imgs/coleslaw-small.jpg" />
+      </div>
+      <span class="text-uppercase"><b>Coleslaw</b></span>
+    </a>
+    
+    <a href="/sides/stuffed-mushrooms">
+      <div class="frame">
+        <img src="/assets/imgs/stuffed-mushrooms-small.jpg" />
+      </div>
+      <span class="text-uppercase"><b>Stuffed Mushrooms</b></span>
+    </a>
+    
+  </div>
+:ET

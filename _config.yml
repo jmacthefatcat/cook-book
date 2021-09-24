@@ -1,71 +1,49 @@
-url: ""
-title: "Final Cooking Fantasy"
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Final Cooking Fantasy" # the name of your site, e.g. ACME Corp.
 
-plugins:
-  - jekyll-admin
+permalink: /:collection/:name
+
+collections_dir: recipes
 
 collections:
   mains:
     output: true
 
-  snacks:
+  sides:
     output: true
 
   sauces:
     output: true
 
-  desserts:
+  treats:
     output: true
 
 defaults:
-  - scope:
-      path: ''
+  -
+    scope:
+      path: ""
       type: mains
     values:
-      title: 'recipe name'
-      layout: recipe
-      category: 'mains/desserts/sauces/snacks'
-      picture:
-      ingredients:
-        - ''
-      steps:
-        - ''
+      layout: "recipe"
 
-  - scope:
-      path: ''
-      type: snacks
+  -
+    scope:
+      path: ""
+      type: sides
     values:
-      title: 'recipe name'
-      layout: recipe
-      category: 'mains/desserts/sauces/snacks'
-      picture:
-      ingredients:
-        - ''
-      steps:
-        - ''
+      layout: "recipe"
 
-  - scope:
-      path: ''
+  -
+    scope:
+      path: ""
       type: sauces
     values:
-      title: 'recipe name'
-      layout: recipe
-      category: 'mains/desserts/sauces/snacks'
-      picture:
-      ingredients:
-        - ''
-      steps:
-        - ''
+      layout: "recipe"
 
-  - scope:
-      path: ''
-      type: desserts
+  -
+    scope:
+      path: ""
+      type: treats
     values:
-      title: 'recipe name'
-      layout: recipe
-      category: 'mains/desserts/sauces/snacks'
-      picture:
-      ingredients:
-        - ''
-      steps:
-        - ''
+      layout: "recipe"
