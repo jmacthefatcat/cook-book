@@ -1,4 +1,4 @@
-I"ç<div class="cb-grid">
+I"^<div class="cb-grid">
     
     <a href="/sauces/caesar-dressing">
       <div class="frame">
@@ -12,6 +12,13 @@
         <img src="/assets/imgs/curry-dressing-small.jpg" />
       </div>
       <span class="text-uppercase"><b>Curry Salad Dressing</b></span>
+    </a>
+    
+    <a href="/sauces/honey-garlic">
+      <div class="frame">
+        <img src="/assets/imgs/honey-garlic-small.jpg" />
+      </div>
+      <span class="text-uppercase"><b>Honey Garlic</b></span>
     </a>
     
     <a href="/sauces/honey-mustard">
