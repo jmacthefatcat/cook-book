@@ -2,17 +2,19 @@
 title: BBQ Sauce
 picture: bbq-sauce
 ingredients:
-- 1/4 cup Olive Oil
-- 1/4 cup Balsamic Vinegar
-- 1/4 cup Worcestershire 
-- 2 tbsp Soy Sauce
+- 1/4 cup Brown Sugar
+- 1/4 cup Maple Syrup
+- 1/2 cup Ketchup
+- 3/4 cup Vinegar
+- 2 tbsp Worcestershire Sauce
 - 1 tbsp Dijon Mustard
-- Salt and Pepper
+- 1 tsp Cayenne Powder
+- 1/2 tsp salt
+- 1/2 tsp pepper
 steps:
-- First take some Salt and Pepper and rub your cuts of meat.
-- Mix the rest of the ingredients and marinade that meat for at least a couple of hours, enjoy.
+- Mix everything together and pour into a sauce pan.
+- Bring mixture to a boil on medium heat, turn heat down and let simmer.
+- simmer for abour 5 minutes so the flavours meld, then keep simmering until desired thickness.
 ---
 
-This particular marinade is nice and tangy. If you want to cut back on the tangy taste, half the vinegar amount and match it with brown sugar, so 1/4 cup Vinegar becomes 2 tbsps Vinegar and 2 tbsps Brown Sugar.
-
-When cooking your meat, you can take the used marinade and use it to flavour gravy or even just toss it all in a pot and mix in some cornstarch over heat to turn it directly into a sauce.
+You can omit the Maple Syrup if you think it will be too sweet. You can also swap the cayenne powder out for a preferred hot sauce. 
