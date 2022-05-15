@@ -1,3 +1,6 @@
+@import url('https://rsms.me/inter/inter.css');
+
+
 /* Variable and globals */
 :root {
   --scale: 1.5;
@@ -19,7 +22,7 @@
   font-size: calc(0.5vw + 1em);
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
   /* Only supported on Chromium-based browsers and Safari */
-  font-family: system-ui;
+  font-family: 'Inter', sans-serif; 
 }
 
 /* CSS RESET BY ANDY BELL */

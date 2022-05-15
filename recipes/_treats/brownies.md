@@ -1,26 +1,24 @@
 ---
-title: Brownies
-picture: brownie
+title: Crepes
+picture: crepes
 ingredients:
-- 1 1/2 cups White Sugar
-- 3/4 cups Flour
-- 2/3 cups Cocoa
-- 1/2 cup Icing Sugar 
-- 1/2 cup Chocolate Chips
-- 3/4 tsp Sea Salt
-- 2 Eggs
-- 1/2 cup Canola Oil
-- 2 tbsp Water
-- 1/2 tsp Vanilla
+- 1/3 cup Flour
+- 1/2 cup Milk
+- 1 pinch of Salt
+- 2 pinches of Sugar 
+- 1 Egg
+- 1 tbsp Melted Butter
 steps:
-- Preheat Oven to 325°F
-- In a bowl (if using a stand mixer use the bowl for that here) combine the Oil, Eggs, Water, and Vanilla.
-- In a seperate bowl combine White Sugar, Flour, Cocoa, Icing Sugar, and Sea Salt.
-- Now add your dry mix into your wet mix slowly while mixing.
-- When all mixed together fold in your Chocolate Chips.
-- Place your batter into a 8x8 baking dish that's been greased with butter or oil.
-- Sprinkle a little bit of extra Sea Salt on top and place in the oven for 40 minutes.
-- Remove oven and let cool for 2 hours, this is a must, seriously, don't touch it.
+- Take your pan, preferably non-stick, and start getting it hot. You can start the heat low and slowly melt your butter while you continue with the recipe.
+- In a bowl combine your Flour, Sugar, and Salt. Then add in your Egg and only about 2-3 tbsps of your 1/2 cup of Milk. Mix thorughly until your batter is nice and smooth, if it's not mixing well you can add a bit more Milk.
+- Once you have a nice smooth batter mix in the rest of the Milk and your Butter.
+- Your pan should be pretty hot by now. You want the Crepe to cook quickly but not burn, I find usually leaving the heat a little over medium works.
+- You don't need a lot of batter, you just want enough to cover the bottom of the pan you are using, this may take some time figuring out, have fun. (Measuring cups with spouts are handy here.)
+- You want to pour your batter off center in the pan and swirl the batter around the edge, then bring it down across the middle. You have to move quick, but you don't need to panic.
+- It will only need about a minute on each side, you want some nice browning and you will soon gain a preference as to how much.
+- A fork, egg flipper, turner, or similar works well to flip your Crepe or just use the pan to flip it, hot shot.
+- Once flipped cooked for 45-60 seconds or to preference. 
+- Spread or place something delicious on your Crepe then roll it up how you see fit, then consume.
 ---
 
-It's very key to let the brownies rest for 2 hours after you take them out of the oven.
+Thank you Jacques Pepin.

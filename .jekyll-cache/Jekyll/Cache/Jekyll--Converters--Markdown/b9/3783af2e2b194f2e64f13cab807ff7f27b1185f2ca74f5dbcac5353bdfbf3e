@@ -1,4 +1,4 @@
-I"ğ<div class="cb-grid">
+I"Æ<div class="cb-grid">
     
     <a href="/mains/buttermilk-pancakes">
       <div class="frame">
@@ -61,6 +61,13 @@
         <img src="/assets/imgs/spaghetti-meatballs-small.jpg" />
       </div>
       <span class="text-uppercase"><b>Spaghetti and Meatballs</b></span>
+    </a>
+    
+    <a href="/mains/split-pea-soup">
+      <div class="frame">
+        <img src="/assets/imgs/split-pea-soup-small.jpg" />
+      </div>
+      <span class="text-uppercase"><b>Split Pea Soup</b></span>
     </a>
     
   </div>
