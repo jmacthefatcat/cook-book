@@ -19,6 +19,6 @@ steps:
 - Bake for 40 mins
 ---
 
-The cake absolutely needs to be paired with the chocolate frosting recipe.
+Recipe can also be halved and then scooped into a mini muffin tin to make super cute cupcakes, which can be iced/frosted with Nutella.
 
 I think it's called a depression cake because during the great depression (1930) dairy products were not in high demand or something of the sort, I don't know, google it and get back to me.

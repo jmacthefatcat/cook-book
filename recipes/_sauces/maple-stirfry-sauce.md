@@ -1,5 +1,5 @@
 ---
-title: Maple Stirfry Sauce
+title: Hot Maple Stirfry Sauce
 picture: maple-stirfry-sauce
 ingredients:
  - 2 tbsps maple syrup

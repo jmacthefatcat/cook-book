@@ -1,6 +1,3 @@
-@import url('https://rsms.me/inter/inter.css');
-
-
 /* Variable and globals */
 :root {
   --scale: 1.5;
@@ -21,8 +18,7 @@
   line-height: var(--scale);
   font-size: calc(0.5vw + 1em);
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-  /* Only supported on Chromium-based browsers and Safari */
-  font-family: 'Inter', sans-serif; 
+  /* Only supported on Chromium-based browsers and Safari */ 
 }
 
 /* CSS RESET BY ANDY BELL */
@@ -198,7 +194,7 @@ select {
   grid-gap: 1rem;
 }
 
-@supports (width: min(30rem, 100%)) {
+@supports (width: min(20rem, 100%)) {
   .cb-grid {
     grid-template-columns: repeat(auto-fit, minmax(min(20rem, 100%), 1fr));
   }
@@ -210,6 +206,10 @@ hr {
   border-top: var(--s-5) solid currentColor;
 }
 
+.menu-item {
+  border-right: var(--s-5) solid currentColor;
+}
+
 /* Utilities */
 
 .font-size-base {
@@ -218,6 +218,10 @@ hr {
 
 .font-size-big {
   font-size: calc(1vw + 1rem)
+}
+
+.font-size-bigger {
+  font-size: calc(3vw + 1rem)
 }
 
 .font-size-jumbo {
