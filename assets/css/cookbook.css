@@ -18,7 +18,6 @@
   line-height: var(--scale);
   font-size: calc(0.5vw + 1em);
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-  /* Only supported on Chromium-based browsers and Safari */ 
 }
 
 /* CSS RESET BY ANDY BELL */
