@@ -1,11 +1,12 @@
 ---
-title: Jaques Hummus
+title: Jacques Hummus
 picture: hummus
 ingredients:
-- 1 cup or 2 Chick Peas
+- 1 cup Chick Peas
+- 1/2 cup Water
 - 1 - 2 Garlic Cloves
-- 1 tbsp or so Lemon Juice
-- 2 tbsps or so Peanut Butter
+- 1 tbsp Lemon Juice
+- 2 tbsps Peanut Butter
 - Hot Sauce
 - Salt and Pepper
 - Roughly 1/3 cup Olive Oil
