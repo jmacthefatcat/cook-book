@@ -1,5 +1,5 @@
 ---
-title: brownies
+title: Brownies
 picture: brownies
 ingredients:
 - 1 1/2 cup White Sugar
