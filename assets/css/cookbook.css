@@ -17,7 +17,7 @@
   --large-measure: 90ch;
   line-height: var(--scale);
   font-size: calc(0.5vw + 1em);
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-family: 'Segoe UI Variable Display', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
 }
 
 /* CSS RESET BY ANDY BELL */
@@ -235,4 +235,8 @@ hr {
 .text-uppercase {
   text-transform: uppercase;
   letter-spacing: 0.05em;
+}
+
+.text-lowercase {
+  text-transform: lowercase;
 }

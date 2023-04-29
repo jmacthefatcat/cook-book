@@ -6,7 +6,7 @@
 
     <div class="centered">
       <div class="stack">
-        <h2 class="font-size-jumbo">{{ page.title }}</h2>
+        <h2 class="font-size-jumbo text-lowercase">{{ page.title }}</h2>
         <div class="stack-large">
           <b class="font-size-big">Notes</b>
           <hr>
@@ -35,7 +35,7 @@
           </div>
         </div>
         <div class="frame frame-large">
-          <img src="{{ 'assets/imgs/' | relative_url }}{{ page.picture }}.jpg">
+          <img alt="Picture of {{ page.title }}" src="{{ 'assets/imgs/' | relative_url }}{{ page.picture }}.jpg">
         </div>
       </div>
     </div>
