@@ -6,9 +6,9 @@ layout: home
     {% for side in site.sides %}
     <a href="{{ side.url | relative_url }}">
       <div class="frame">
-        <img src="{{ "assets/imgs/" | relative_url}}{{ side.picture }}-small.jpg">
+        <img alt="Picture of {{ side.title }}" src="{{ "assets/imgs/" | relative_url}}{{ side.picture }}-small.jpg">
       </div>
-      <span class="text-uppercase"><b>{{ side.title }}</b></span>
+      <span class="text-lowercase"><b>{{ side.title }}</b></span>
     </a>
     {% endfor %}
   </div>
