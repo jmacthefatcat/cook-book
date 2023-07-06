@@ -12,7 +12,10 @@ ingredients:
 - 2 egg whites
 - 20g white sugar
 steps:
-- combine
+- mix together your flour, salt, and baking powder in one bowl and in another mix the egg yolks, yogurt, milk, and oil. Now combine the two. 
+- in a separate bowl whip egg whites until soft peaks. Add in your sugar and keep whipping until stiff peaks.
+- fold your whipped egg whites into the mix slowly, it'll take time but go until it all becomes the same colour
+- scoop batter onto waffle iron, enjoy. 
 ---
 
-Do it do it do it.
+Let the waffle iron do the coooking.
