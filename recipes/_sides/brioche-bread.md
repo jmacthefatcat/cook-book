@@ -1,3 +1,4 @@
+---
 title: Brioche Buns
 picture: brioche-bun
 ingredients:

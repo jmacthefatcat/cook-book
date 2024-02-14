@@ -16,4 +16,4 @@ steps:
 - Combine everything in a blender and mix until nice and smooth.
 ---
 
-The dressing will keep for about a week in the fridge. If the dressing is a too thick, add in a splash of each liquid and go from there. Also, shredded parm works best as I find the crumbs/grated cheese makes the dressing very rough and grainy. 
+The dressing will keep for about a week in the fridge. If the dressing is a too thick, add in a splash of each liquid and go from there.
