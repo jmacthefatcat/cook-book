@@ -3,7 +3,7 @@ title: Pizza Dough
 picture: pizza-dough
 ingredients:
 - 10g yeast
-- 20g salt
+- 20g sugar
 - 225ml water (94°F)
 - 65g Olive Oil
 - 340g Flour
