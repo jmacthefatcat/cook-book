@@ -15,3 +15,6 @@ steps:
 - Check mixture temp, then if needed bring up to 75°C, stir in cream cheese, then lemon juice.
 - Smooth out mixture using a hand blender then pass through a chinois. 
 - Chill thoroughly before putting in machine.
+---
+
+:)
