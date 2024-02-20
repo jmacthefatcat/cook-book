@@ -1,6 +1,6 @@
 ---
 title: Curry Powder
-picture: curry-pow
+picture: curry-powder
 ingredients:
 - 15g tumeric
 - 10g corriander

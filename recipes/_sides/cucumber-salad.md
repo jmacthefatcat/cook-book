@@ -1,6 +1,6 @@
 ---
-title: Israel Salad
-picture: israel-salad
+title: Cucumber Salad
+picture: cucumber-salad
 ingredients:
 - 1 Cucumber
 - 1 Tomato
