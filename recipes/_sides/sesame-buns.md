@@ -1,6 +1,6 @@
 ---
 title: Sesame Buns
-picture: sesame-buns
+picture: sesame-bun
 ingredients:
 - 300g ap flour
 - pinch of salt
