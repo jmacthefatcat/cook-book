@@ -1,5 +1,5 @@
 ---
-title: Coleslaw
+title: No Mayo Coleslaw
 picture: coleslaw
 ingredients:
 - 1 Small Cabbage
@@ -17,6 +17,4 @@ steps:
 - Combine everything in a large container and mix well.
 ---
 
-This coleslaw isn't mayonnaise based. I prefer this for it's fresh and crunchy bite and I find it goes swimmingly on a hotdog or with fried fish.
-
-I would recommend only using Half the cabbage first as this tends to make a lot for just one person. I also tend to drain the coleslaw after it's had some time to sit in it's juices to avoid it getting super soggy. You can keep the left over sugar/vinegar juice if you want to add some to revive the taste at a later date.
+Fresh and crunchy bite I find it goes swimmingly on a hotdog or with fried fish.
