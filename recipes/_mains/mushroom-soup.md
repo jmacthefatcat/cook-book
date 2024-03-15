@@ -11,9 +11,7 @@ ingredients:
 - 25ml shaoxing wine
 - 25ml rice vinegar
 - 500ml stock
-- 150ml mikl
-
-
+- 150ml milk
 steps:
 - Cook, blend, make soup. I strain mine for this really nice cream of mush.
 ---
