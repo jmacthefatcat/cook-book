@@ -2,23 +2,20 @@
 title: Mushroom Soup
 picture: mush-soup
 ingredients:
-- 1kg Mushrooms, Sliced
-- 30g Garlic, Sliced
-- 100g Shallot, Sliced
-- 4 sprigs Thyme leaves
-- 4 sprigs Tarragon leaves
-- 4 Bay leaf
-- 100ml White wine
-- 500ml Milk
-- 300ml Cream
-- 300ml Stock
-- To Taste Shoaxin cooking wine
+- 200g mushrooms
+- 1 large onion, diced
+- 5g ginger, peeled and sliced
+- 2 cloves garlic, crushed
+- 15g dijon mustard
+- 50ml sake
+- 25ml shaoxing wine
+- 25ml rice vinegar
+- 500ml stock
+- 150ml mikl
+
+
 steps:
-- Lightly caramelize the Mushrooms, turn heat down and add in Garlic, Shallots, Thyme, Tarragon, and Bay leaf.
-- Add wine and cook until Au Sec
-- Add Stock, Milk, and Cream. Simmer 30-45.
-- Remove Bay leaves and puree half the soup.
-- Season, add in Shoaxin.
+- Cook, blend, make soup. I strain mine for this really nice cream of mush.
 ---
 
-Quantities need to be scaled for home.
+Tastes really good despite how it looks in the picture, I promise. 🍄
