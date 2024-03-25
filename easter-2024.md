@@ -13,12 +13,12 @@ layout: home
   <span>
     <b>Egg's, Ham, and Potato Pave'</b>
     <br>
-    <i>Poached egg, apple cider hollandiase, grilled ham, fried potato pave, white wine bechamel sauce</i>
+    <i>Poached egg, apple cider hollandaise, grilled ham, fried potato pave, white wine bechamel sauce</i>
     </span>
     <span>
     <b>Mixed Green Quinoa Salad</b>
     <br>
-    <i>spring mix greens, quinoa, tomato, cucumber, in-house lemon viniagrette</i> 
+    <i>spring mix greens, quinoa, tomato, cucumber, in-house lemon vinaigrette</i> 
   </span>
     <span>
     <b>butterscotch tart and lemon cup</b>
