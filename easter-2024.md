@@ -21,8 +21,8 @@ layout: home
     <i>spring mix greens, quinoa, tomato, cucumber, in-house lemon viniagrette</i> 
   </span>
     <span>
-    <b>butterscotch and lemon</b>
+    <b>butterscotch tart and lemon cup</b>
     <br>
-    <i>lemon filling topped with whipped cream and whipped butterscotch <br> choice of tart shells or non-edible cups</i>
+    <i>whipped butterscotch in a house made tart shell, lemmon curd topped with whipped cream in a cup</i>
   </span>
 </div>
