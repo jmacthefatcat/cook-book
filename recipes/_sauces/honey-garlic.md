@@ -1,6 +1,6 @@
 ---
 title: Honey Garlic
-picture: honey-garlic
+picture: no-image
 ingredients:
 - 1 - 2 cloves of Garlic
 - 2 tbsp Honey

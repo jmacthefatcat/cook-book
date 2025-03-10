@@ -1,6 +1,6 @@
 ---
 title: Hamburger/Hotdog Buns
-picture: buns
+picture: no-image
 ingredients:
 - 300g ap flour
 - 60ml warm milk

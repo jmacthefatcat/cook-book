@@ -1,6 +1,6 @@
 ---
 title: Caramel Sauce
-picture: caramel-sauce
+picture: no-image
 ingredients:
 - 200g white sugar
 - 250ml cream

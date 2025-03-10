@@ -1,6 +1,6 @@
 ---
 title: Fish Cakes
-picture: fish-cakes
+picture: no-image
 ingredients:
 - 3 Fish fillets (preferably whitefish like cod)
 - Lemon Juice

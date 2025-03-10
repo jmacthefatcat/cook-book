@@ -1,6 +1,6 @@
 ---
 title: Cucumber Salad
-picture: cucumber-salad
+picture: no-image
 ingredients:
 - 1 Cucumber
 - 1 Tomato

@@ -1,6 +1,6 @@
 ---
 title: Hollandaise
-picture: hollandaise
+picture: no-image
 ingredients:
 - Peppercorns
 - Shallot  
