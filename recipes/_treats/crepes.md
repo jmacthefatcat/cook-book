@@ -1,6 +1,6 @@
 ---
 title: Crepes
-picture: crepes
+picture: no-image
 ingredients:
 - 1/3 cup Flour
 - 1/2 cup Milk

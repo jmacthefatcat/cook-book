@@ -1,6 +1,6 @@
 ---
 title: Chocolate Ice Cream
-picture: choc-ice-cream
+picture: no-image
 ingredients:
 - 1 1/4 cup Chocolate Milk
 - 1 1/4 cup 10% Cream

@@ -1,6 +1,6 @@
 ---
 title: Lemon Cream Cheese Ice Cream
-picture: lemon-cream-cheese
+picture: no-image
 ingredients:
 - 250ml milk (or cream)
 - 112g white sugar

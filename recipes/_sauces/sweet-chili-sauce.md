@@ -1,6 +1,6 @@
 ---
 title: Sweet Chili Sauce
-picture: chili-sauce
+picture: no-image
 ingredients:
 - 5 chili peppers (whatever kind you want)
 - chili flakes (if you want to use sweeter fresh peppers then add some heat)

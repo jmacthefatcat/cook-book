@@ -1,6 +1,6 @@
 ---
 title: Dulce De Leche
-picture: dulce-de-leche
+picture: no-image
 ingredients:
 - Condensed Milk
 steps:
