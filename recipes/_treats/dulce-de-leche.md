@@ -12,4 +12,4 @@ steps:
 - Remove lid, LET CAN COOL DOWN COMPLETELY BEFORE OPENING.
 ---
 
-This is the Instant Pot method. Pressure cooking allows this to be done in like an hour. You can place the can in a pot with water and boil it very slowly for about 3 hours or so to get similar results. 
+This is the Instant Pot method. Pressure cooking allows this to be done in like an hour. You can place the can in a pot with water and boil it very slowly for about 3 hours or so to get similar results, but fuck that.
