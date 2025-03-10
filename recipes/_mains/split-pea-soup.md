@@ -1,6 +1,6 @@
 ---
 title: Split Pea Soup
-picture: split-pea-soup
+picture: no-image
 ingredients:
 - 2 cups Split Peas
 - Pork, be it pickled, whole ham bone, whatever
