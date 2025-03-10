@@ -1,6 +1,6 @@
 ---
 title: French Onion Soup
-picture: french-soup
+picture: no-image
 ingredients:
 - 6 Onions
 - 2 Garlic Cloves
