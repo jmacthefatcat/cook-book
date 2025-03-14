@@ -1,6 +1,6 @@
 ---
 title: Marshmallow
-image: no-image
+picture: no-image
 ingredients:
 - 2 cups sugar
 - .75 oz gelatin

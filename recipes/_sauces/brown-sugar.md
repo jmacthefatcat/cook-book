@@ -1,6 +1,6 @@
 ---
 title: Brown Sugar
-image: no-image
+picture: no-image
 ingredients:
 - 200g white sugar
 - 25g molasses

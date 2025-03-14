@@ -1,6 +1,6 @@
 ---
 title: Basic Mayo
-image: no-image
+picture: no-image
 ingredients:
 - 1 egg yolk
 - 15g dijon
