@@ -8,7 +8,7 @@ ingredients:
 - 1/2 cup water
 - 1/4 cup water
 steps:
-- poor 1/4 cup of water in mixing bowl and sprinle the gelatin powder on top, set aside.
+- pour 1/4 cup of water in mixing bowl and sprinle the gelatin powder on top, set aside.
 - in a pot combine sugar, maple syrup, and 1/2 cup of water. 
 - Continue to cook sugar mixture until it reaches 240F
 - Start whipping the gelatin and water on high and slowly pour in the sugar mixture
