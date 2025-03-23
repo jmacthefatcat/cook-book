@@ -14,4 +14,4 @@ steps:
 - Combine all ingredients into bowl and mix well
 ---
 
-Make sure you chop up the grated cucumber after as well, it helps keep the tzatziki from being weird and stringy.
+Make sure you chop up the grated cucumber after as well, it helps keep the tzatziki from being weird and stringy. Also adding like 2 tbsps of chimi to it is a solid choice
