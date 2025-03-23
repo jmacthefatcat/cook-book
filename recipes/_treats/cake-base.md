@@ -1,5 +1,5 @@
 ---
-title: Cake Base
+title: Dairy free chocolate cake
 picture: depression-cake
 ingredients:
 - 200g flour
