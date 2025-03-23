@@ -20,5 +20,3 @@ steps:
 - Cut to desired size, place in cooking vessel and let rise for 30 mins.
 - 350F oven for 20 - 30 mins.
 ---
-
-Scale this down cause it'll make, like, 32 cinnamon rolls. :D 
