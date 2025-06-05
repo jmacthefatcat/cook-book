@@ -1,17 +1,16 @@
 ---
-title: Hamburger/Hotdog Buns
+title: Universal dough
 picture: no-image
 ingredients:
-- 300g ap flour
-- 60ml warm milk
-- 90ml warm water
-- 4g dry active yeast
+- 400g ap flour
+- 180ml warm liquid
+- 6g dry active yeast
 - 1 egg
-- 10g sugar
-- 14g butter or oil
+- 20g sugar
+- 25g butter or oil
 steps:
-- Combine yeast, sugar, and water in a container and let the yeast bloom.
+- Combine yeast, sugar, and liquid in a container and let the yeast bloom.
 - Combine everything in a mixing bowl and knead with a dough hook.
 ---
 
-Preferred recipe for Hamburger and Hotdog bunzos.
+Buns, rolls, baguettes, whatever, just an easy to use dough
